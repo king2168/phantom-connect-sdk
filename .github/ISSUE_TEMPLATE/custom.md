@@ -1,10 +1,8 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: File a general issue that does not fit the bug report or feature request templates.
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-
